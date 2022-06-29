@@ -11,6 +11,7 @@ Monsieur
 Hr
 Frau
 A V M
+captain
 Admiraal
 Admiral
 Air Cdre
@@ -83,7 +84,6 @@ Eur Ing
 Exma Sra
 Exmo Sr
 F O
-Father
 First Lieutient
 First Officer
 Flt Lieut
@@ -123,7 +123,6 @@ Judge
 Justice
 Khun Ying
 Kolonel
-Lady
 Lcda
 Lic
 Lieut
@@ -154,7 +153,7 @@ Pastor
 President
 Prince
 Princess
-Princesse
+Princess
 Prinses
 Prof
 Prof Dr
@@ -178,7 +177,6 @@ Sig
 Sig na
 Sig ra
 Sir
-Sister
 Sqn Ldr
 Sr
 Sr D
